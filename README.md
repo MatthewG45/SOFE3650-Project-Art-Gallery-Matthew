@@ -4,9 +4,12 @@
 # Group Members:
 Matthew Gardiner - 100768198
 
+# Important:
+I did not know whether or not I was allowed to edit iteration 1 and 2 (or other old files), as were were still technically a group when I did them. There are many places I wanted to edit, but i decided it would be best if I just left it the same. However, hopefully this will not massively impact my grade as it is essentially out of my control, I would rather lose a mark on an assumption than do something im not allowed to and get 0.
 
 
-## Table of Contents
+
+# Table of Contents
 
 #### [1. Project Overview](Other%20README%20files/Project%20Overview.md)
 #### [2. Justification and Objective](Other%20README%20files/Justification%20and%20Objective.md)
@@ -36,4 +39,3 @@ Matthew Gardiner - 100768198
 #### [5. Use Case Model](Use%20Case%20Model-1.pdf)
 #### [6. ReadME.md - This file](README.md)
 
-## Important: i did not know whether or not I was allowed to edit iteration 1 and 2 (or other old files), as were were still technically a group when I did them. There are many places I wanted to edit, but i decided it would be bet if I just left it the same. However, hopefully this will not massively impact my grade as it is essentially out of my control, I would rather lose a mark on an assumption than do something im not allowed to and get 0.
