@@ -15,10 +15,13 @@ Matthew Gardiner - 100768198
 #### [4. iteration 1](iteration%201.pdf)  
 #### [5. iteration 2](iteration%202.pdf)
 #### [6. iteration 3](iteration%203.pdf)
-### If you would prefer a .md file containing no pictures that can navigate back here:
+### If you would prefer a .md file:
 #### [7. Iteration 1](Other%20README%20files/iteration1.md)
 #### [8. Iteration 2](Other%20README%20files/iteration2.md)
 #### [9. Iteration 3](Other%20README%20files/iteration3.md)
+### These are not visually appealing as they are auto generated, therefore they do not have pictures and are formatted badly
+### It would have taken a very long time to completely redo all the formatting in an md file without auto-generating it.
+### I tried several convertors, all of them were unique but none were exceptional.
 
 
 
