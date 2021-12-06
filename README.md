@@ -22,9 +22,9 @@ Matthew Gardiner - 100768198
 ## Project Source Files
 ### Note: Source Files are not READMEs and will not be able to navigate back to this page
 
-### [1. Art Gallery Website - Presentation](ART%20Gallery%20Website.pptx) - Does not display properly as pptx is a very large file size
-### [2. Design QAs](Design%20QAs.pdf)
-### [3. Design Constraints](Design%20Constraints.pdf)
-### [4. Requirements](Requirements)
-### [5. Use Case Model](Use%20Case%20Model-1.pdf)
-### [6. ReadME.md - This file](README.md)
+#### [1. Art Gallery Website - Presentation](ART%20Gallery%20Website.pptx) - Does not display properly as pptx is a very large file size
+#### [2. Design QAs](Design%20QAs.pdf)
+#### [3. Design Constraints](Design%20Constraints.pdf)
+#### [4. Requirements](Requirements)
+#### [5. Use Case Model](Use%20Case%20Model-1.pdf)
+#### [6. ReadME.md - This file](README.md)
