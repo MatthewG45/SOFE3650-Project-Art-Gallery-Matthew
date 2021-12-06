@@ -1,10 +1,12 @@
+# [Back to Table of Contents / Homepage](../../..)
+
 ![](RackMultipart20211206-4-1ew2rpe_html_1a1991e2dfdf03cb.png)
 
-                                    **SOFE 3650U Software Design and Architecture**
+**SOFE 3650U Software Design and Architecture**
 
-           **Iteration 3 of Art Gallery Project**
+**Iteration 3 of Art Gallery Project**
 
-Matthew Gardiner 100768198
+**Matthew Gardiner 100768198**
 
 **Project Use Cases :**
 
