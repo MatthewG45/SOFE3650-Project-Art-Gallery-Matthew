@@ -1,7 +1,9 @@
 # SOFE3650 Project
-# Art Gallery
+# Art Gallery Table of Contents
 
-[1. Art Gallery Website - Presentation](ART%20Gallery%20Website.pptx)
+## Files 
+
+[1. Art Gallery Website - Presentation](ART%20Gallery%20Website.pptx) - Does not work as pptx is a very large file size
 2. Design QAs
 3. Design Constraints
 4. ReadME.md - This file
