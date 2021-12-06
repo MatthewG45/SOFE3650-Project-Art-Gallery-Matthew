@@ -1,0 +1,36 @@
+# Functional Requirements :
+
+1.) Sales Page 
+              Sales page is required to display and buy all the art which is for sale. There should be an option to select the required art piece and it's quantity.
+2.) Code Requirement :
+              All the coding should be accessible to the website owner and it should be commented properly. Code should be maintainable.
+3.) Collection Page :
+              Collection page is required to display collection of art pieces. The art pieces can be removed as well as updated with time in this page.
+4.) Authentication:
+              There should be a login and logout option so that website can validate the users and users can exit the website safely. This will prevent accessing of each others payment methods.
+5.) Feedback :
+              The system must allow the user to submit feedback through a contact form.
+6.) Payment :
+              The system is required to accept multi payment methods such as credit cards and online banking services, PayPal.
+7.) Account Page :
+              The account page is required to display past purchases and user information.
+8.) Bug-free :
+              The system should be tested for bugs and then repaired prior to launch.
+9.) Cross-browser functionality :
+              The system should perform identically across all popular browsers.
+              
+Non-functional Requirements 
+
+1.) User Friendly :
+               The website should have user friendly features. It should have easy access, simple functions and interactive design.
+2.) Background of the website :
+               There should an art piece image at the background of the website and the theme of the website should be dark.
+3.) Time requirements :
+               Once clicked on an icon, the result should be accessed as fast as possible. For example, when sales page is clicked, sales page should open in less than a minute.
+4.) Manageability :
+               The system shall be easy to monitor and manage by administrators. such as updating available items keeping track of orders and transactions
+5.) Security :
+               The system shall protect the data against malware attacks. i.e. adding errors handlers to prevent database injection
+6.) Eye-catching :
+               The website should be eye-catching to increase attention and generate more sales.
+ 
