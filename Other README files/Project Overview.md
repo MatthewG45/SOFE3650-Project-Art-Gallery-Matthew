@@ -1,4 +1,4 @@
-# [Back to Table of Contents](../README.md)
+### [Back to Table of Contents](../README.md)
 
 ## Project Overview
 Art Gallery is a website that allows users to create accounts to browse art, purchase art, and display their own art for sale.
