@@ -11,10 +11,14 @@ Matthew Gardiner - 100768198
 #### [1. Project Overview](Other%20README%20files/Project%20Overview.md) - Does not work as pptx is a very large file size
 #### [2. Justification and Objective](Other%20README%20files/Justification%20and%20Objective.md)
 #### [3. Metrics for Evalutation and Monitoring](Other%20README%20files/Metrics%20for%20Evaluation%20and%20Monitoring.md)
-### Iterations are not READMEs and will not be able to navigate back to this page
-#### [4. iteration 1](iteration%201.pdf)
+### Iterations are not READMEs and will not be able to navigate back to this page:
+#### [4. iteration 1](iteration%201.pdf)  
 #### [5. iteration 2](iteration%202.pdf)
 #### [6. iteration 3](iteration%203.pdf)
+### If you would prefer a .md file containing no pictures that can navigate back here:
+#### [7. Iteration 1](Other%20README%20files/iteration1.md)
+#### [8. Iteration 2](Other%20README%20files/iteration2.md)
+#### [9. Iteration 3](Other%20README%20files/iteration3.md)
 
 
 
