@@ -1,7 +1,7 @@
 # SOFE3650 Project
 # Art Gallery
 
-[1. Art Gallery Website - Presentation]("ART Gallery Website.pptx")
+[1. Art Gallery Website - Presentation](ART%20Gallery%20Website.pptx)
 2. Design QAs
 3. Design Constraints
 4. ReadME.md - This file
