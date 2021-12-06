@@ -1,20 +1,33 @@
 # SOFE3650 Project
-# Art Gallery Table of Contents
-
-## Files 
-
-[1. Art Gallery Website - Presentation](ART%20Gallery%20Website.pptx) - Does not work as pptx is a very large file size
-2. Design QAs
-3. Design Constraints
-4. ReadME.md - This file
-5. Requirements
-6. Use Case Model
-7. iteration 1
-8. iteration 2
-9. iteration 3
+# Art Gallery
 
 # Group Members:
 Matthew Gardiner - 100768198
+
+
+
+## Table of Contents
+
+#### [1. Project Overview](Project%20Overview.md) - Does not work as pptx is a very large file size
+#### [2. Justification and Objective](Justification%20and%20Objective.md)
+#### [3. Metrics for Evalutation and Monitoring](Metrics%20for%20Evaluation%20and%20Monitoring.md)
+### Iterations are not READMEs and will not be able to navigate back to this page
+#### [4. iteration 1](iteration%201.pdf)
+#### [5. iteration 2](iteration%202.pdf)
+#### [6. iteration 3](iteration%203.pdf)
+
+
+
+## Other Phases and Relevant Information
+## Project Source Files
+
+### [1. Art Gallery Website - Presentation](ART%20Gallery%20Website.pptx) - Does not work as pptx is a very large file size
+### 2. Design QAs
+### [3. Design Constraints
+### 4. ReadME.md - This file
+### 5. Requirements
+### 6. Use Case Model
+
 
 # Overview
 Art Gallery is a website that allows users to create accounts to browse art, purchase art, and display their own art for sale.
