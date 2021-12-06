@@ -5,7 +5,10 @@
 Matthew Gardiner - 100768198
 
 # Important:
-I did not know whether or not I was allowed to edit iteration 1 and 2 (or other old files), as were were still technically a group when I did them. There are many places I wanted to edit, but i decided it would be best if I just left it the same. However, hopefully this will not massively impact my grade as it is essentially out of my control, I would rather lose a mark on an assumption than do something im not allowed to and get 0.
+I did not know whether or not I was allowed to edit iteration 1 and 2 (or other old files), as were were still technically a group when I did them. There are many places I wanted to edit, (for example steps 2-4 iteration 1 are copied form the textbook because Manreet wanted to contribute but didnt know how, she fought me when I wanted to edit it and so I never did) but i decided it would be best if I just left it the same for claritys sake. 
+There are no major structural additions or changes I wanted to edit, it was mainly format, spelling, tense, and other writing aspects that were done by group members attempting to contribute. I did all the major elements of the design, so that is okay.
+However, hopefully this will not massively impact my grade as it is essentially out of my control. I would rather lose a mark assuming i should leave them alone than do something im not allowed to and get 0.
+Therefore, iteration 3 is very in-depth with my decisions and hopefully it can provide an off-set for my grade in the project. Thanks!
 
 
 
