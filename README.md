@@ -35,3 +35,5 @@ Matthew Gardiner - 100768198
 #### [4. Requirements](Requirements)
 #### [5. Use Case Model](Use%20Case%20Model-1.pdf)
 #### [6. ReadME.md - This file](README.md)
+
+## Important: i did not know whether or not I was allowed to edit iteration 1 and 2, as were were still technically a group when I did those iterations. There are many places I wanted to edit, but i decided it would be bet if I just left it the same. However, hopefully this will not massively impact my grade as it is essentially out of my control, I would rather lose a mark on an assumption than do something im not allowed to and get 0.
